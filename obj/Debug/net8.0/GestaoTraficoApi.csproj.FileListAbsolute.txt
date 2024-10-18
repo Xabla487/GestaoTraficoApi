@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\GestaoTraficoApi\GestaoTraficoApi\obj\Debug\net8.0\GestaoTraficoApi.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\GestaoTraficoApi\GestaoTraficoApi\obj\Debug\net8.0\GestaoTraficoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\GestaoTraficoApi\GestaoTraficoApi\obj\Debug\net8.0\GestaoTraficoApi.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\GestaoTraficoApi\GestaoTraficoApi\obj\Debug\net8.0\GestaoTraficoApi.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\GestaoTraficoApi\GestaoTraficoApi\obj\Debug\net8.0\GestaoTraficoApi.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\GestaoTraficoApi\GestaoTraficoApi\obj\Debug\net8.0\GestaoTraficoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pichau\source\repos\GestaoTraficoApi\GestaoTraficoApi\obj\Debug\net8.0\GestaoTraficoApi.MvcApplicationPartsAssemblyInfo.cache
